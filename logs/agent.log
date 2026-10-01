@@ -1,0 +1,67 @@
+2026-10-01 01:46:51,682 | INFO    | === CLEANING ===
+2026-10-01 01:46:51,725 | INFO    | === TARGET_CHECK ===
+2026-10-01 01:46:51,758 | ERROR   | Stage 'target_check' failed: Target 'YourColumn' not found. Available columns: ['#_this_sample_csv_file_is_provided_by_sample-files.com._visit_us_for_more_sample_files_and_resources.']
+2026-10-01 01:48:33,931 | INFO    | === CLEANING ===
+2026-10-01 01:48:33,969 | INFO    | === TARGET_CHECK ===
+2026-10-01 01:48:33,992 | ERROR   | Stage 'target_check' failed: Target 'YourColumn' not found. Available columns: ['customer_id', 'age', 'gender', 'city', 'monthly_charges', 'tenure_months', 'contract', 'support_calls', 'churned']
+2026-10-01 01:49:37,479 | INFO    | === CLEANING ===
+2026-10-01 01:49:37,504 | INFO    | === TARGET_CHECK ===
+2026-10-01 01:49:37,532 | INFO    | Target column: 'churned'
+2026-10-01 01:49:37,533 | WARNING | Skipping analysis: skipped by user
+2026-10-01 01:49:37,534 | WARNING | Skipping visualization: skipped by user
+2026-10-01 01:49:37,534 | INFO    | === ML ===
+2026-10-01 01:49:37,551 | ERROR   | Stage 'ml' failed: No module named 'joblib'
+2026-10-01 01:49:37,592 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_014937.json
+2026-10-01 01:56:00,499 | INFO    | === CLEANING ===
+2026-10-01 01:56:00,530 | INFO    | === TARGET_CHECK ===
+2026-10-01 01:56:00,564 | INFO    | Target column: 'churned'
+2026-10-01 01:56:00,565 | WARNING | Skipping analysis: skipped by user
+2026-10-01 01:56:00,565 | WARNING | Skipping visualization: skipped by user
+2026-10-01 01:56:00,566 | INFO    | === ML ===
+2026-10-01 01:56:01,303 | ERROR   | Stage 'ml' failed: No module named 'sklearn'
+2026-10-01 01:56:01,310 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_015600.json
+2026-10-01 11:05:02,908 | INFO    | === CLEANING ===
+2026-10-01 11:05:02,964 | INFO    | === TARGET_CHECK ===
+2026-10-01 11:05:02,983 | INFO    | Target column: 'churned'
+2026-10-01 11:05:02,983 | WARNING | Skipping analysis: skipped by user
+2026-10-01 11:05:02,983 | WARNING | Skipping visualization: skipped by user
+2026-10-01 11:05:02,984 | INFO    | === ML ===
+2026-10-01 11:05:03,222 | ERROR   | Stage 'ml' failed: No module named 'sklearn'
+2026-10-01 11:05:03,229 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_110502.json
+2026-10-01 11:07:07,474 | INFO    | === CLEANING ===
+2026-10-01 11:07:07,515 | INFO    | === TARGET_CHECK ===
+2026-10-01 11:07:07,542 | INFO    | Target column: 'churned'
+2026-10-01 11:07:07,542 | WARNING | Skipping analysis: skipped by user
+2026-10-01 11:07:07,543 | WARNING | Skipping visualization: skipped by user
+2026-10-01 11:07:07,543 | INFO    | === ML ===
+2026-10-01 11:07:07,701 | ERROR   | Stage 'ml' failed: No module named 'sklearn'
+2026-10-01 11:07:07,710 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_110707.json
+2026-10-01 11:10:33,539 | INFO    | === CLEANING ===
+2026-10-01 11:10:33,579 | INFO    | === TARGET_CHECK ===
+2026-10-01 11:10:33,600 | INFO    | Target column: 'churned'
+2026-10-01 11:10:33,601 | WARNING | Skipping analysis: skipped by user
+2026-10-01 11:10:33,601 | WARNING | Skipping visualization: skipped by user
+2026-10-01 11:10:33,601 | INFO    | === ML ===
+2026-10-01 11:10:33,747 | ERROR   | Stage 'ml' failed: No module named 'sklearn'
+2026-10-01 11:10:33,752 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_111033.json
+2026-10-01 11:47:14,354 | INFO    | === CLEANING ===
+2026-10-01 11:47:14,411 | INFO    | === TARGET_CHECK ===
+2026-10-01 11:47:14,442 | INFO    | Target column: 'churned'
+2026-10-01 11:47:14,443 | WARNING | Skipping analysis: skipped by user
+2026-10-01 11:47:14,443 | WARNING | Skipping visualization: skipped by user
+2026-10-01 11:47:14,444 | INFO    | === ML ===
+2026-10-01 11:47:45,422 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_114714.json
+2026-10-01 20:38:45,049 | INFO    | === CLEANING ===
+2026-10-01 20:38:45,109 | INFO    | === TARGET_CHECK ===
+2026-10-01 20:38:45,128 | INFO    | Target column: 'churned'
+2026-10-01 20:38:45,129 | WARNING | Skipping analysis: skipped by user
+2026-10-01 20:38:45,130 | WARNING | Skipping visualization: skipped by user
+2026-10-01 20:38:45,130 | INFO    | === ML ===
+2026-10-01 20:39:21,138 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_203845.json
+2026-10-01 20:58:57,105 | INFO    | === CLEANING ===
+2026-10-01 20:58:57,146 | INFO    | === TARGET_CHECK ===
+2026-10-01 20:58:57,173 | INFO    | Target column: 'churned'
+2026-10-01 20:58:57,173 | WARNING | Skipping analysis: skipped by user
+2026-10-01 20:58:57,174 | WARNING | Skipping visualization: skipped by user
+2026-10-01 20:58:57,174 | INFO    | === ML ===
+2026-10-01 20:59:04,109 | INFO    | Run report: C:\Users\SHAAD QURESHI\OneDrive\Desktop\DS_hack\outputs\reports\run_20261001_205857.json

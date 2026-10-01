@@ -1,0 +1,28 @@
+{
+  "task": "classification",
+  "target": "churned",
+  "best_model": "random_forest",
+  "features_used": [
+    "age",
+    "gender",
+    "city",
+    "tenure_months",
+    "contract",
+    "support_calls"
+  ],
+  "cv_scores": {
+    "baseline": 0.3531,
+    "logistic_regression": 0.8175,
+    "random_forest": 0.8273,
+    "gradient_boosting": 0.7928
+  },
+  "test_metrics": {
+    "accuracy": 0.8167,
+    "f1_macro": 0.8124
+  },
+  "warnings": [
+    "Dropped columns (IDs/text/too empty): ['customer_id', 'monthly_charges']"
+  ],
+  "plan_reasoning": "Built-in rules.",
+  "seconds": 4.6
+}

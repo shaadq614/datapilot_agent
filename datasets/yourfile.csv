@@ -1,0 +1,309 @@
+Customer ID,Age,Gender,City,Monthly Charges,Tenure Months,Contract,Support Calls,Churned
+C1157,23,Female,Chennai,$61.56,42,Month-to-month,0,Yes
+C1296,27,Female,Bhopal,$51.94,12,ONE YEAR,1,No
+C1143,30,Female,Delhi,$44.11,22,One year,2,No
+C1243,79,,Bhopal,$62.18,46,One year,3,No
+C1276,78,Male,Mumbai,$54.5,69,Month-to-month,3,No
+C1146,76,Male,Delhi,$55.25,7,Two year,0,Yes
+C1127,78,Male,Bhopal,$67.04,11,One year,3,Yes
+C1139,77,Female,Mumbai,$91.57,16,Two year,1,No
+C1073,30,Female,Mumbai,$62.82,27,One year,3,Yes
+C1046,73,Female,Bhopal,$96.61,9,Month-to-month,0,No
+C1010,72,Male,Mumbai,$66.23,21,Month-to-month,3,Yes
+C1215,73,Male,Chennai,$39.27,50,Month-to-month,1,No
+C1038,36,Female,Bhopal,$76.44,25,Month-to-month,3,Yes
+C1177,46,Male,Pune,$98.96,30,Two year,2,No
+C1294,54,Female,Delhi,$98.55,18,Month-to-month,1,Yes
+C1176,64,Male,Chennai,$88.53,71,Month-to-month,1,No
+C1293,39,Female,Chennai,$67.68,5,Two year,1,Yes
+C1225,59,Male,Chennai,$94.62,11,Two year,2,Yes
+C1016,27,Female,Chennai,$38.05,10,One year,2,Yes
+C1058,20,Female,Mumbai,$120.0,32,Two year,2,No
+C1047,34,Male,  Mumbai ,$21.18,4,MONTH-TO-MONTH,0,Yes
+C1217,76,Male,Pune,$62.84,26,One year,1,No
+C1132,61,Male,Chennai,$88.98,4,Month-to-month,0,Yes
+C1279,28,Male,Delhi,$58.89,65,Month-to-month,5,Yes
+C1233,74,Female,Chennai,$65.02,59,Month-to-month,4,Yes
+C1230,61,Female,Mumbai,$63.64,42,Month-to-month,2,Yes
+C1266,45,Male,Pune,$31.18,10,Two year,1,Yes
+C1154,72,Female,Pune,$118.11,44,One year,3,No
+C1226,73,Female,Chennai,$67.38,30,Month-to-month,2,No
+C1101,27,Female,Mumbai,$53.41,27,Month-to-month,null,No
+C1261,69,Female,Bhopal,$61.61,-,ONE YEAR,4,No
+C1066,66,Female,Bhopal,$40.95,7,Two year,1,No
+C1102,25,Male,Chennai,$56.91,47,Month-to-month,2,Yes
+C1014,70,Female,Chennai,$55.2,36,One year,1,No
+C1079,N/A,Male,Bhopal,$58.26,12,Two year,0,No
+C1025,N/A,Female,Pune,$58.46,19,Month-to-month,1,Yes
+C1074,18,Female,Chennai,$103.61,36,One year,3,No
+C1077,69,Female,Delhi,$89.18,60,One year,3,No
+C1065,N/A,Male,Bhopal,$64.58,1,Month-to-month,2,Yes
+C1218,69,Female,Delhi,$20.0,66,Two year,4,No
+C1031,19,Male,Mumbai,$71.1,40,Two year,2,No
+C1211,56,Female,Delhi,$55.86,25,Month-to-month,4,Yes
+C1080,31,Male,Pune,$83.2,39,Month-to-month,4,Yes
+C1197,60,Female,Mumbai,$30.58,3,Two year,3,Yes
+C1082,38,Male,Pune,$59.42,70,Two year,1,No
+C1195,73,Female,Pune,$76.22,27,Two year,2,No
+C1067,61,Female,Pune,$61.45,14,One year,1,Yes
+C1005,51,Male,Pune,$82.66,56,Two year,1,No
+C1255,68,Female,Chennai,$78.73,27,Two year,0,No
+C1204,75,Female,Bhopal,$93.14,53,Month-to-month,0,No
+C1061,27,Male,Pune,$46.77,36,Month-to-month,4,Yes
+C1246,65,Female,Bhopal,$30.59,69,One year,4,No
+C1198,28,,Mumbai,$80.19,66,Month-to-month,3,No
+C1127,78,Male,Bhopal,$67.04,11,One year,3,Yes
+C1130,N/A,Male,Bhopal,$74.36,26,One year,2,No
+C1123,49,Female,Chennai,$96.56,46,Two year,1,No
+C1164,60,Male,Pune,$57.02,18,Month-to-month,2,Yes
+C1118,35,Male,Bhopal,$34.72,29,Month-to-month,5,Yes
+C1252,72,Male,Chennai,$78.36,14,Month-to-month,0,No
+C1180,34,Male,Pune,$90.59,52,One year,3,No
+C1121,41,Male,Chennai,$20.0,-,Month-to-month,1,No
+C1004,36,Female,Chennai,$70.58,42,One year,4,Yes
+C1114,55,Female,Mumbai,$99.13,29,Month-to-month,2,Yes
+C1264,65,Male,Chennai,$59.18,72,Month-to-month,4,No
+C1105,34,Male,Chennai,$36.55,5,Month-to-month,2,Yes
+C1260,18,Male,Pune,$66.5,23,One year,2,No
+C1083,54,Female,  Mumbai ,$38.58,64,Two year,1,No
+C1115,50,Female,Bhopal,$82.03,28,Month-to-month,3,Yes
+C1142,61,Male,Delhi,$63.76,2,One year,0,Yes
+C1185,38,Male,Pune,$52.37,34,Month-to-month,5,Yes
+C1070,47,Male,Delhi,$66.84,64,Two year,3,No
+C1006,59,Male,Bhopal,$73.32,61,Month-to-month,3,Yes
+C1239,20,Male,Pune,$41.74,59,One year,2,No
+C1084,37,Male,Delhi,$67.35,14,Month-to-month,2,Yes
+C1162,52,Male,Bhopal,$56.46,55,Month-to-month,1,No
+C1109,66,Male,Bhopal,$74.06,24,Month-to-month,2,Yes
+C1037,61,Male,Pune,$77.44,45,Month-to-month,1,No
+C1003,36,Male,Pune,$60.79,65,One year,2,No
+C1244,29,Male,Delhi,$51.25,35,Month-to-month,2,Yes
+C1078,58,Female,Mumbai,$49.41,48,Two year,1,No
+C1166,N/A,,Pune,$40.63,4,Two year,0,No
+C1196,38,Male,Chennai,$73.43,58,Two year,2,No
+C1181,77,Female,Delhi,$51.59,3,Month-to-month,null,Yes
+C1064,79,Female,Mumbai,$96.09,72,One year,1,No
+C1210,26,Female,Mumbai,$67.36,50,Month-to-month,2,Yes
+C1050,70,Female,Bhopal,$84.14,11,TWO YEAR,4,Yes
+C1023,59,Female,Mumbai,$83.25,21,Month-to-month,1,Yes
+C1043,70,Male,Chennai,$22.22,12,One year,3,Yes
+C1128,46,Female,Bhopal,$35.33,41,ONE YEAR,0,No
+C1024,33,Female,Chennai,$60.66,52,Month-to-month,3,Yes
+C1187,30,Female,Bhopal,$68.0,40,Month-to-month,1,No
+C1248,48,Male,Delhi,$81.43,-,Two year,3,No
+C1140,39,Female,Pune,$46.14,1,Month-to-month,1,Yes
+C1278,42,Male,Pune,$57.11,65,One year,3,No
+C1291,35,Female,Delhi,$73.23,-,Month-to-month,3,Yes
+C1189,18,Male,  Mumbai ,$35.98,24,Month-to-month,0,No
+C1179,21,Female,Delhi,$80.3,18,Month-to-month,5,Yes
+C1245,31,Female,Bhopal,$65.49,58,Month-to-month,1,No
+C1153,43,Male,Chennai,$85.57,69,One year,4,No
+C1040,61,Female,Pune,$58.76,-,Month-to-month,2,Yes
+C1213,39,Female,Chennai,$46.36,43,Month-to-month,4,Yes
+C1045,19,Female,Pune,$80.04,45,One year,5,Yes
+C1205,38,Female,Delhi,$40.73,31,Month-to-month,3,Yes
+C1015,29,Female,Pune,$27.95,60,Month-to-month,4,No
+C1251,18,Female,Pune,$90.05,17,Two year,5,Yes
+C1189,18,Male,  Mumbai ,$35.98,24,Month-to-month,0,No
+C1149,35,Female,Chennai,$53.45,10,Month-to-month,0,No
+C1272,52,Male,Bhopal,$40.01,15,Month-to-month,4,Yes
+C1298,34,Male,Pune,$46.24,39,One year,2,Yes
+C1126,60,Male,Bhopal,$60.71,69,Month-to-month,0,No
+C1265,54,Male,Bhopal,$55.99,25,One year,2,Yes
+C1108,21,Male,Chennai,$67.02,44,One year,2,No
+C1103,36,Male,Mumbai,$30.58,44,Month-to-month,1,Yes
+C1136,48,Female,Pune,$70.19,30,Month-to-month,3,Yes
+C1057,43,Female,Chennai,$20.0,46,Two year,null,No
+C1161,24,Male,  Mumbai ,$57.09,14,Month-to-month,2,Yes
+C1075,63,Female,Pune,$90.95,1,Month-to-month,3,Yes
+C1190,78,Male,Pune,$105.54,33,Month-to-month,2,Yes
+C1030,25,,Chennai,$71.71,-,Two year,1,Yes
+C1292,37,Female,Bhopal,$50.04,7,Month-to-month,1,Yes
+C1286,47,Male,Mumbai,$47.44,69,Month-to-month,2,No
+C1042,52,Male,Pune,$53.54,61,Month-to-month,6,Yes
+C1237,30,Female,Delhi,$104.72,31,One year,3,Yes
+C1227,32,Female,Chennai,$96.69,68,Month-to-month,4,Yes
+C1122,70,Male,Bhopal,$118.02,33,Month-to-month,4,Yes
+C1134,59,Female,Bhopal,$111.98,60,One year,2,No
+C1257,23,Male,Mumbai,$80.05,13,Two year,3,Yes
+C1098,21,Female,Chennai,$70.82,45,Two year,2,No
+C1289,48,Male,Delhi,$46.76,30,Month-to-month,2,No
+C1094,N/A,Female,Mumbai,$50.67,18,Month-to-month,3,Yes
+C1213,39,Female,Chennai,$46.36,43,Month-to-month,4,Yes
+C1155,54,Male,Pune,$81.86,66,Month-to-month,2,No
+C1089,66,Female,Pune,$42.01,47,Two year,1,No
+C1151,76,Male,Pune,$70.65,61,MONTH-TO-MONTH,null,No
+C1034,22,Male,Delhi,$75.69,59,Two year,1,No
+C1072,53,Female,Chennai,$61.71,52,One year,0,No
+C1281,74,,Chennai,$86.57,54,Month-to-month,2,No
+C1214,43,Female,Pune,$82.94,21,One year,2,No
+C1290,20,Female,Pune,$67.51,52,One year,3,No
+C1111,25,Female,Mumbai,$48.73,11,One year,1,Yes
+C1012,34,Female,Bhopal,$38.84,66,Two year,3,No
+C1087,47,Male,Bhopal,$69.52,61,Month-to-month,0,No
+C1236,18,Male,Mumbai,$53.11,61,Two year,2,No
+C1096,N/A,Male,Delhi,$58.31,53,Month-to-month,3,Yes
+C1168,30,Male,Chennai,$75.14,-,Month-to-month,2,Yes
+C1041,45,Female,Delhi,$73.3,16,One year,1,No
+C1063,70,,Delhi,$96.8,18,One year,3,No
+C1159,73,Male,Chennai,$46.87,11,Two year,0,No
+C1013,76,Female,Pune,$39.68,1,Month-to-month,2,Yes
+C1175,19,Male,Mumbai,$40.53,28,Month-to-month,2,Yes
+C1017,43,Male,Delhi,$32.3,58,One year,3,No
+C1229,53,Male,Bhopal,$46.86,1,Two year,2,No
+C1270,40,Male,Pune,$41.65,16,One year,2,Yes
+C1271,37,Female,Chennai,$78.0,33,One year,2,No
+C1051,79,Male,Delhi,$89.68,38,One year,2,No
+C1085,48,Male,Chennai,$97.65,37,Month-to-month,3,No
+C1124,67,Female,Chennai,$44.36,40,Month-to-month,2,Yes
+C1088,33,Female,Bhopal,$47.05,51,One year,2,Yes
+C1163,42,Male,Delhi,$79.87,67,One year,4,No
+C1247,46,Male,Delhi,$38.23,37,Month-to-month,3,Yes
+C1273,41,Male,Chennai,$60.4,71,One year,3,No
+C1238,58,Male,Chennai,$65.15,62,Two year,5,Yes
+C1086,56,Male,Bhopal,$49.96,68,One year,3,No
+C1203,67,Female,Pune,$62.71,48,Month-to-month,2,Yes
+C1116,62,Male,Pune,$58.01,42,Two year,2,No
+C1145,59,Female,Pune,$54.72,63,Two year,3,No
+C1158,74,Female,Bhopal,$47.87,21,Month-to-month,4,Yes
+C1280,21,Female,Delhi,$69.55,56,One year,2,No
+C1207,70,Female,Mumbai,$95.04,-,MONTH-TO-MONTH,2,Yes
+C1209,75,Male,Mumbai,$56.41,63,One year,3,Yes
+C1186,30,Male,Mumbai,$62.07,55,One year,4,No
+C1170,72,Female,Delhi,$80.94,70,Two year,1,No
+C1125,59,Female,Chennai,$68.38,49,One year,2,No
+C1254,37,,Chennai,$108.76,66,Month-to-month,6,Yes
+C1200,38,Male,  Mumbai ,$27.13,30,Month-to-month,2,Yes
+C1071,72,Female,Delhi,$45.17,15,Month-to-month,1,Yes
+C1221,23,Male,Mumbai,$55.86,56,MONTH-TO-MONTH,3,No
+C1259,75,Female,Delhi,$47.4,25,Two year,1,No
+C1201,70,Male,Delhi,$85.39,70,Month-to-month,1,No
+C1234,24,Male,Mumbai,$66.0,47,Month-to-month,1,Yes
+C1081,23,Female,Delhi,$40.17,20,One year,4,Yes
+C1288,66,Male,Mumbai,$71.18,27,One year,3,No
+C1095,48,Female,Delhi,$79.1,39,Month-to-month,3,Yes
+C1133,46,Female,Mumbai,$66.6,29,Month-to-month,2,Yes
+C1199,40,Male,Pune,$120.0,9,Month-to-month,2,Yes
+C1231,37,Female,Pune,$90.28,55,Month-to-month,1,No
+C1295,77,Female,Chennai,$71.6,31,Month-to-month,3,Yes
+C1137,32,Female,Mumbai,$26.67,70,Month-to-month,1,No
+C1100,N/A,Female,Pune,$77.15,50,Month-to-month,0,No
+C1220,71,Male,Bhopal,$43.06,39,MONTH-TO-MONTH,2,Yes
+C1224,21,Female,Chennai,$43.2,72,Month-to-month,2,No
+C1287,60,Male,Delhi,$47.77,64,One year,4,No
+C1194,30,Male,  Mumbai ,$63.17,52,Month-to-month,2,Yes
+C1282,54,Female,Chennai,$20.0,42,One year,4,No
+C1008,45,Male,Pune,$49.77,4,Month-to-month,1,Yes
+C1107,33,Male,Pune,$45.85,28,One year,1,No
+C1053,32,Male,Chennai,$67.99,34,Month-to-month,2,Yes
+C1027,65,Female,Delhi,$58.23,33,Two year,2,Yes
+C1263,26,Female,Chennai,$61.45,42,Month-to-month,1,No
+C1060,29,Male,Chennai,$101.36,20,Month-to-month,3,Yes
+C1092,29,Female,Delhi,$112.25,35,Month-to-month,2,Yes
+C1032,61,Female,  Mumbai ,$37.57,37,Two year,1,No
+C1285,40,Female,Chennai,$42.71,31,Month-to-month,2,No
+C1185,38,Male,Pune,$52.37,34,Month-to-month,5,Yes
+C1135,43,Female,Pune,$50.69,7,Month-to-month,3,Yes
+C1022,N/A,Male,Pune,$51.41,25,One year,2,No
+C1062,58,Male,Bhopal,$94.35,28,Month-to-month,0,Yes
+C1297,39,Female,Delhi,$63.67,38,One year,1,No
+C1106,76,Female,Chennai,$62.11,48,Month-to-month,4,Yes
+C1191,48,Male,Delhi,$88.67,55,Month-to-month,0,No
+C1018,60,Female,Delhi,$68.65,9,Month-to-month,3,Yes
+C1267,52,,Delhi,$57.71,20,Month-to-month,2,Yes
+C1052,75,Female,Chennai,$84.66,70,One year,2,No
+C1173,32,Female,Mumbai,$79.34,42,TWO YEAR,2,No
+C1035,49,Male,Mumbai,$76.55,58,Month-to-month,2,No
+C1193,22,Male,Chennai,$57.67,2,Month-to-month,1,Yes
+C1178,36,,Pune,$73.42,16,Month-to-month,2,Yes
+C1167,76,,Delhi,$97.89,13,Month-to-month,2,Yes
+C1120,64,Female,Pune,$51.88,32,One year,2,No
+C1144,61,Female,Delhi,$58.04,36,One year,1,No
+C1019,41,Male,Mumbai,$73.16,34,Two year,2,Yes
+C1222,30,Male,Chennai,$96.63,57,Two year,2,No
+C1044,21,Male,Mumbai,$59.34,62,MONTH-TO-MONTH,0,No
+C1068,68,Female,Delhi,$20.94,70,Month-to-month,1,No
+C1076,22,Male,Bhopal,$64.1,45,One year,2,No
+C1208,75,Female,Chennai,$60.96,32,Month-to-month,3,Yes
+C1112,51,Male,Pune,$46.13,28,MONTH-TO-MONTH,0,No
+C1299,N/A,Male,Chennai,$70.54,69,Two year,1,No
+C1212,25,Male,Delhi,$96.78,5,Month-to-month,2,Yes
+C1011,73,Female,Mumbai,$50.8,63,Two year,4,No
+C1055,20,Female,Delhi,$77.53,67,Month-to-month,1,No
+C1216,63,Female,Pune,$78.75,63,Month-to-month,1,No
+C1188,51,Male,Bhopal,$74.26,-,Month-to-month,2,Yes
+C1269,61,Male,Bhopal,$67.1,69,Month-to-month,0,No
+C1009,21,Male,Mumbai,$39.21,22,Month-to-month,1,No
+C1250,30,Female,Chennai,$72.71,17,Month-to-month,1,Yes
+C1262,28,Female,Chennai,$24.57,63,Two year,0,No
+C1029,59,Male,Chennai,$38.66,37,Month-to-month,2,Yes
+C1039,41,Male,Bhopal,$29.34,72,Month-to-month,3,Yes
+C1104,74,Male,Pune,$56.16,8,Month-to-month,2,Yes
+C1056,34,Male,Delhi,$50.7,60,Two year,1,No
+C1268,30,Male,Chennai,$64.18,7,One year,4,Yes
+C1021,28,Male,Bhopal,$35.05,22,One year,3,Yes
+C1241,39,Female,Delhi,$79.94,2,Two year,1,No
+C1091,46,Female,Pune,$94.1,54,Month-to-month,1,No
+C1228,61,Male,Delhi,$71.65,23,MONTH-TO-MONTH,5,Yes
+C1240,31,Male,Bhopal,$55.19,70,One year,3,No
+C1182,22,Male,Pune,$73.35,70,One year,3,No
+C1123,49,Female,Chennai,$96.56,46,Two year,1,No
+C1059,58,Female,Mumbai,$79.16,38,Month-to-month,2,Yes
+C1283,73,Male,Pune,$47.98,42,One year,0,No
+C1172,77,Female,Pune,$60.03,43,One year,1,No
+C1232,25,Male,Delhi,$84.35,54,One year,1,No
+C1090,62,Male,Bhopal,$40.28,4,Month-to-month,2,Yes
+C1036,75,Male,Bhopal,$52.14,51,Month-to-month,2,Yes
+C1156,37,Female,Chennai,$64.31,70,Month-to-month,1,No
+C1002,56,Female,Delhi,$40.31,50,One year,2,No
+C1242,38,Male,Delhi,$78.19,63,One year,1,No
+C1048,68,Male,Mumbai,$117.27,33,Two year,1,No
+C1141,22,Male,  Mumbai ,$75.61,49,Month-to-month,0,No
+C1223,71,Male,Delhi,$42.03,66,Two year,0,No
+C1183,N/A,Female,Chennai,$47.24,64,Month-to-month,0,No
+C1160,64,Female,Bhopal,$44.93,41,Month-to-month,4,Yes
+C1219,39,Male,Pune,$64.88,38,Month-to-month,0,No
+C1099,43,Female,Bhopal,$70.59,63,Month-to-month,1,No
+C1235,39,Male,Chennai,$62.69,10,Month-to-month,3,Yes
+C1117,37,Male,Mumbai,$94.3,71,Month-to-month,5,Yes
+C1001,78,Female,Pune,$91.73,46,Two year,2,No
+C1113,30,Female,Pune,$79.93,59,Month-to-month,2,No
+C1284,69,Female,Delhi,$44.3,60,Two year,3,No
+C1174,29,Female,Bhopal,$119.11,5,Two year,2,Yes
+C1253,36,Female,Pune,$65.42,15,MONTH-TO-MONTH,3,Yes
+C1275,32,Male,Chennai,$50.76,38,Two year,1,No
+C1184,33,Female,Pune,$51.18,41,Two year,null,No
+C1165,72,Male,Delhi,$61.05,40,TWO YEAR,0,No
+C1274,21,Female,Pune,$91.83,12,Month-to-month,2,Yes
+C1192,40,Female,Chennai,$79.87,4,One year,1,Yes
+C1000,78,Female,Mumbai,$45.3,69,Month-to-month,4,No
+C1054,50,Female,Mumbai,$41.77,59,One year,1,No
+C1028,61,Female,Pune,$41.88,35,One year,2,No
+C1206,31,Female,Bhopal,$68.34,6,Two year,3,No
+C1049,35,Female,Chennai,$42.46,3,Month-to-month,2,Yes
+C1020,63,Female,Mumbai,$105.14,59,Month-to-month,2,No
+C1176,64,Male,Chennai,$88.53,71,Month-to-month,1,No
+C1033,32,Female,Bhopal,$45.29,72,Month-to-month,1,Yes
+C1171,69,Male,Chennai,$94.79,47,Month-to-month,4,Yes
+C1007,40,Male,Pune,$72.74,17,Month-to-month,3,Yes
+C1073,30,Female,Mumbai,$62.82,27,One year,3,Yes
+C1106,76,Female,Chennai,$62.11,48,Month-to-month,4,Yes
+C1097,46,Male,Mumbai,$81.03,37,One year,2,No
+C1110,N/A,Male,Delhi,$36.6,17,Month-to-month,2,Yes
+C1069,28,Female,Mumbai,$30.96,50,One year,1,No
+C1129,70,Female,Delhi,$51.37,-,Two year,2,No
+C1258,73,Male,Pune,$73.39,29,Month-to-month,4,Yes
+C1150,34,Female,Chennai,$46.86,61,One year,1,No
+C1026,43,Male,Mumbai,$99.18,72,One year,5,No
+C1093,48,Male,Chennai,$74.66,7,One year,1,Yes
+C1148,25,Female,Delhi,$78.05,39,One year,1,No
+C1119,32,Female,Chennai,$94.99,43,Two year,2,No
+C1138,57,Male,Pune,$39.94,69,One year,0,No
+C1169,74,Male,Mumbai,$100.78,64,One year,2,No
+C1202,42,Male,Chennai,$72.57,8,Month-to-month,0,Yes
+C1147,54,Male,Pune,$80.07,48,Two year,1,No
+C1277,36,Female,Bhopal,$87.07,38,Month-to-month,3,Yes
+C1256,56,Male,Mumbai,$57.71,8,One year,1,Yes
+C1131,44,Female,Pune,$69.45,18,Month-to-month,null,Yes
+C1249,78,Female,Mumbai,$55.14,53,One year,3,No
+C1152,71,Male,Mumbai,$63.0,35,One year,1,No

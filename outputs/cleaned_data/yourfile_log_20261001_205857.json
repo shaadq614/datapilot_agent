@@ -1,0 +1,275 @@
+[
+  {
+    "table": "data",
+    "before": {
+      "rows": 308,
+      "duplicate_rows": 8,
+      "columns": {
+        "Customer ID": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 300,
+          "samples": [
+            "C1157",
+            "C1296",
+            "C1143",
+            "C1243",
+            "C1276"
+          ]
+        },
+        "Age": {
+          "dtype": "float64",
+          "missing": 12,
+          "unique": 62,
+          "samples": [
+            "23.0",
+            "27.0",
+            "30.0",
+            "79.0",
+            "78.0"
+          ]
+        },
+        "Gender": {
+          "dtype": "str",
+          "missing": 10,
+          "unique": 2,
+          "samples": [
+            "Female",
+            "Male"
+          ]
+        },
+        "City": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 6,
+          "samples": [
+            "Chennai",
+            "Bhopal",
+            "Delhi",
+            "Mumbai",
+            "Pune"
+          ]
+        },
+        "Monthly Charges": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 290,
+          "samples": [
+            "$61.56",
+            "$51.94",
+            "$44.11",
+            "$62.18",
+            "$54.5"
+          ]
+        },
+        "Tenure Months": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 73,
+          "samples": [
+            "42",
+            "12",
+            "22",
+            "46",
+            "69"
+          ]
+        },
+        "Contract": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 6,
+          "samples": [
+            "Month-to-month",
+            "ONE YEAR",
+            "One year",
+            "Two year",
+            "MONTH-TO-MONTH"
+          ]
+        },
+        "Support Calls": {
+          "dtype": "float64",
+          "missing": 6,
+          "unique": 7,
+          "samples": [
+            "0.0",
+            "1.0",
+            "2.0",
+            "3.0",
+            "5.0"
+          ]
+        },
+        "Churned": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 2,
+          "samples": [
+            "Yes",
+            "No"
+          ]
+        }
+      }
+    },
+    "after": {
+      "rows": 300,
+      "duplicate_rows": 0,
+      "columns": {
+        "customer_id": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 300,
+          "samples": [
+            "C1157",
+            "C1296",
+            "C1143",
+            "C1243",
+            "C1276"
+          ]
+        },
+        "age": {
+          "dtype": "float64",
+          "missing": 12,
+          "unique": 62,
+          "samples": [
+            "23.0",
+            "27.0",
+            "30.0",
+            "79.0",
+            "78.0"
+          ]
+        },
+        "gender": {
+          "dtype": "str",
+          "missing": 10,
+          "unique": 2,
+          "samples": [
+            "Female",
+            "Male"
+          ]
+        },
+        "city": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 5,
+          "samples": [
+            "Chennai",
+            "Bhopal",
+            "Delhi",
+            "Mumbai",
+            "Pune"
+          ]
+        },
+        "monthly_charges": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 290,
+          "samples": [
+            "$61.56",
+            "$51.94",
+            "$44.11",
+            "$62.18",
+            "$54.5"
+          ]
+        },
+        "tenure_months": {
+          "dtype": "str",
+          "missing": 10,
+          "unique": 72,
+          "samples": [
+            "42",
+            "12",
+            "22",
+            "46",
+            "69"
+          ]
+        },
+        "contract": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 6,
+          "samples": [
+            "Month-to-month",
+            "ONE YEAR",
+            "One year",
+            "Two year",
+            "MONTH-TO-MONTH"
+          ]
+        },
+        "support_calls": {
+          "dtype": "float64",
+          "missing": 6,
+          "unique": 7,
+          "samples": [
+            "0.0",
+            "1.0",
+            "2.0",
+            "3.0",
+            "5.0"
+          ]
+        },
+        "churned": {
+          "dtype": "str",
+          "missing": 0,
+          "unique": 2,
+          "samples": [
+            "Yes",
+            "No"
+          ]
+        }
+      }
+    },
+    "steps": [
+      {
+        "op": "replace_null_tokens",
+        "params": {
+          "columns": [
+            "Customer ID",
+            "Age",
+            "Gender",
+            "City",
+            "Monthly Charges",
+            "Tenure Months",
+            "Contract",
+            "Support Calls",
+            "Churned"
+          ]
+        },
+        "reason": "Turn placeholders into blanks.",
+        "status": "applied",
+        "rows": "308 -> 308"
+      },
+      {
+        "op": "strip_whitespace",
+        "params": {
+          "columns": [
+            "Customer ID",
+            "Age",
+            "Gender",
+            "City",
+            "Monthly Charges",
+            "Tenure Months",
+            "Contract",
+            "Support Calls",
+            "Churned"
+          ]
+        },
+        "reason": "Trim stray spaces.",
+        "status": "applied",
+        "rows": "308 -> 308"
+      },
+      {
+        "op": "drop_empty_rows_and_columns",
+        "params": {},
+        "reason": "Remove fully empty rows/columns.",
+        "status": "applied",
+        "rows": "308 -> 308"
+      },
+      {
+        "op": "drop_duplicates",
+        "params": {},
+        "reason": "Remove exact duplicates.",
+        "status": "applied",
+        "rows": "308 -> 300"
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "run_id": "20261001_205857",
+  "dataset": "C:\\Users\\SHAAD QURESHI\\OneDrive\\Desktop\\DS_hack\\datasets\\yourfile.csv",
+  "stages": {
+    "cleaning": {
+      "status": "success",
+      "seconds": 0.0
+    },
+    "target_check": {
+      "status": "success",
+      "seconds": 0.0
+    },
+    "analysis": {
+      "status": "skipped",
+      "reason": "skipped by user",
+      "seconds": 0
+    },
+    "visualization": {
+      "status": "skipped",
+      "reason": "skipped by user",
+      "seconds": 0
+    },
+    "ml": {
+      "status": "success",
+      "seconds": 6.9
+    }
+  },
+  "outputs": {
+    "cleaned_data": "C:\\Users\\SHAAD QURESHI\\OneDrive\\Desktop\\DS_hack\\outputs\\cleaned_data\\yourfile_cleaned_20261001_205857.csv",
+    "model_dir": "C:\\Users\\SHAAD QURESHI\\OneDrive\\Desktop\\DS_hack\\outputs\\model\\20261001_205857"
+  },
+  "cleaning": {
+    "cleaned_file": "C:\\Users\\SHAAD QURESHI\\OneDrive\\Desktop\\DS_hack\\outputs\\cleaned_data\\yourfile_cleaned_20261001_205857.csv",
+    "log_file": "C:\\Users\\SHAAD QURESHI\\OneDrive\\Desktop\\DS_hack\\outputs\\cleaned_data\\yourfile_log_20261001_205857.json",
+    "rows_before": 308,
+    "rows_after": 300,
+    "step_outcomes": {
+      "applied": 4
+    },
+    "mode": "rule-based"
+  },
+  "target": "churned",
+  "question": "(default exploratory analysis)",
+  "model": {
+    "task": "classification",
+    "target": "churned",
+    "best_model": "random_forest",
+    "features_used": [
+      "age",
+      "gender",
+      "city",
+      "tenure_months",
+      "contract",
+      "support_calls"
+    ],
+    "cv_scores": {
+      "baseline": 0.3531,
+      "logistic_regression": 0.8175,
+      "random_forest": 0.8273,
+      "gradient_boosting": 0.7928
+    },
+    "test_metrics": {
+      "accuracy": 0.8167,
+      "f1_macro": 0.8124
+    },
+    "warnings": [
+      "Dropped columns (IDs/text/too empty): ['customer_id', 'monthly_charges']"
+    ],
+    "plan_reasoning": "Built-in rules.",
+    "seconds": 4.6
+  }
+}
